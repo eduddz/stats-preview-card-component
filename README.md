@@ -1,10 +1,14 @@
-# stats-preview-card-component
+# Stats preview card component 🎈 
 
 ## Welcome! 👋
 
 Desenvolvido com html e css. Layout first mobile, usando flexbox e media query
 
-![Design preview for the Stats preview card component coding challenge](./design/desktop-design.jpg)
+## Layout Desktop 🎨💻
 
-![Design preview mobile for the Stats preview card component coding challenge](./design/mobile-design.jpg)
+![Layout Desktop](./images/layout-desktop.png)
+
+## Layout Mobile 🎨📱
+
+![Layout Mobile](./iamges/../images/layout-mobile.png)
 
